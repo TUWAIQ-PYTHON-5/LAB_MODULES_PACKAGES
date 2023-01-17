@@ -1,4 +1,5 @@
 import datetime
-def current_data():
-    print("any thing")
+def current_date():
+    print (datetime.date.today())
+
 

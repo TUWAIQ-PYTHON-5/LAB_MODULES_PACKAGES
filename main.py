@@ -1,4 +1,4 @@
-import dateOP as data
+import dateOP as date
 
-data.current_data()
+date.current_date()
 
