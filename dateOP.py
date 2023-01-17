@@ -1,5 +1,6 @@
 from datetime import date
 
-current_date = date .today()
+def oop () : 
+   current_date = date.today()
 
-print("is today :",current_date)
+   print("is today :",current_date)
