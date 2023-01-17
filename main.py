@@ -1,0 +1,3 @@
+import dateOP
+
+dateOP.timeNow()
