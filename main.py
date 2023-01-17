@@ -1,2 +1,2 @@
 import dateOP 
-print(dateOP.now)
+print(dateOP.date_fun)
