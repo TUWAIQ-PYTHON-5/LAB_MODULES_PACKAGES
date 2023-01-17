@@ -1,5 +1,8 @@
 from datetime import datetime
- 
-# returns current date and time
-now = datetime.now()
-print("now = ", now)
+
+def date_fun (d) :
+    now = datetime.now()
+
+    print("now = ",now )
+
+date_fun(datetime)
