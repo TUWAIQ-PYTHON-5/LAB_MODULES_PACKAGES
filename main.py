@@ -1,3 +1,3 @@
 import dateOP
 
-print("date is :",dateOP.date_now)
+print("date is :",dateOP.today())

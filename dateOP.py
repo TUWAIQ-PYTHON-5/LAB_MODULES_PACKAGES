@@ -1,5 +1,7 @@
 import datetime
 
-date_now = datetime.datetime.now()
+def today():
+    date_now = datetime.datetime.now()
+    return(date_now)
 
-print("date is:",date_now)
+today()
