@@ -1,3 +1,3 @@
 
 import dateOP
-from dateOP import date_now
+dateOP.date_now()
